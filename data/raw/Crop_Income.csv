@@ -1,0 +1,201 @@
+﻿State,District,Crop,Productivity(quintal/acre),Rate(Rs/quintal)
+Gujarat,Ahmedabad,Wheat,13,2485
+Gujarat,Ahmedabad,Maize,10,2358
+Gujarat,Ahmedabad,Rice,21,2703
+Gujarat,Ahmedabad,Cotton,8,8839
+Gujarat,Bishanpura,Wheat,13,2683
+Gujarat,Bishanpura,Rice,22,2581
+Gujarat,Bishanpura,Maize,10,2343
+Gujarat,Bishanpura,Cotton,7,7997
+Gujarat,Channarayapatna,Wheat,13,2701
+Gujarat,Channarayapatna,Rice,25,2312
+Gujarat,Channarayapatna,Maize,9,2141
+Gujarat,Channarayapatna,Cotton,8,7527
+Gujarat,Dhulagori,Wheat,13,2714
+Gujarat,Dhulagori,Rice,20,2611
+Gujarat,Dhulagori,Maize,9,2814
+Gujarat,Dhulagori,Cotton,9,8717
+Gujarat,Manjari,Wheat,13,2650
+Gujarat,Manjari,Rice,20,2397
+Gujarat,Manjari,Maize,9,2609
+Gujarat,Manjari,Cotton,9,7974
+Gujarat,Nellikuppam,Wheat,12,2403
+Gujarat,Nellikuppam,Rice,22,2406
+Gujarat,Nellikuppam,Maize,9,2407
+Gujarat,Nellikuppam,Cotton,10,8828
+Gujarat,Surat,Wheat,12,2669
+Gujarat,Surat,Rice,23,2338
+Gujarat,Surat,Maize,9,2323
+Gujarat,Surat,Cotton,7,7612
+Karnataka,Bengaluru,Wheat,6,2646
+Karnataka,Bengaluru,Rice,25,2621
+Karnataka,Bengaluru,Maize,13,2200
+Karnataka,Bengaluru,Cotton,6,8640
+Karnataka,Bishanpura,Wheat,5,2623
+Karnataka,Bishanpura,Rice,27,2799
+Karnataka,Bishanpura,Maize,12,2449
+Karnataka,Bishanpura,Cotton,6,8696
+Karnataka,Channarayapatna,Wheat,5,2658
+Karnataka,Channarayapatna,Rice,26,2800
+Karnataka,Channarayapatna,Maize,12,2001
+Karnataka,Channarayapatna,Cotton,6,8949
+Karnataka,Dhulagori,Wheat,5,2643
+Karnataka,Dhulagori,Rice,20,2334
+Karnataka,Dhulagori,Maize,13,2757
+Karnataka,Dhulagori,Cotton,6,8107
+Karnataka,Manjari,Wheat,6,2816
+Karnataka,Manjari,Rice,24,2764
+Karnataka,Manjari,Maize,13,2294
+Karnataka,Manjari,Cotton,8,8122
+Karnataka,Mysuru,Wheat,6,2414
+Karnataka,Mysuru,Rice,21,2587
+Karnataka,Mysuru,Maize,12,2668
+Karnataka,Mysuru,Cotton,7,7629
+Karnataka,Nellikuppam,Wheat,5,2630
+Karnataka,Nellikuppam,Rice,27,2332
+Karnataka,Nellikuppam,Maize,12,2066
+Karnataka,Nellikuppam,Cotton,8,8946
+Madhya Pradesh,Bishanpura,Wheat,13,2632
+Madhya Pradesh,Bishanpura,Rice,22,2521
+Madhya Pradesh,Bishanpura,Maize,11,2837
+Madhya Pradesh,Bishanpura,Cotton,5,7681
+Madhya Pradesh,Channarayapatna,Wheat,14,2638
+Madhya Pradesh,Channarayapatna,Rice,19,2534
+Madhya Pradesh,Channarayapatna,Maize,11,3040
+Madhya Pradesh,Channarayapatna,Cotton,6,7528
+Madhya Pradesh,Dhulagori,Wheat,12,2784
+Madhya Pradesh,Dhulagori,Rice,24,2569
+Madhya Pradesh,Dhulagori,Maize,12,3064
+Madhya Pradesh,Dhulagori,Cotton,6,7511
+Madhya Pradesh,Manjari,Wheat,12,2712
+Madhya Pradesh,Manjari,Rice,24,2315
+Madhya Pradesh,Manjari,Maize,12,2178
+Madhya Pradesh,Manjari,Cotton,8,7798
+Madhya Pradesh,Nellikuppam,Wheat,12,2514
+Madhya Pradesh,Nellikuppam,Rice,23,2175
+Madhya Pradesh,Nellikuppam,Maize,12,2115
+Madhya Pradesh,Nellikuppam,Cotton,6,7794
+Maharashtra,Bishanpura,Wheat,9,2549
+Maharashtra,Bishanpura,Rice,23,2519
+Maharashtra,Bishanpura,Maize,11,2751
+Maharashtra,Bishanpura,Cotton,8,8950
+Maharashtra,Channarayapatna,Wheat,7,2545
+Maharashtra,Channarayapatna,Rice,18,2657
+Maharashtra,Channarayapatna,Maize,10,2289
+Maharashtra,Channarayapatna,Cotton,7,8444
+Maharashtra,Dhulagori,Wheat,8,2771
+Maharashtra,Dhulagori,Rice,18,2540
+Maharashtra,Dhulagori,Maize,11,2540
+Maharashtra,Dhulagori,Cotton,8,8666
+Maharashtra,Manjari,Wheat,8,2597
+Maharashtra,Manjari,Rice,19,2247
+Maharashtra,Manjari,Maize,10,3084
+Maharashtra,Manjari,Cotton,9,8451
+Maharashtra,Nagpur,Wheat,9,2634
+Maharashtra,Nagpur,Rice,17,2447
+Maharashtra,Nagpur,Maize,12,2805
+Maharashtra,Nagpur,Cotton,6,9205
+Maharashtra,Nellikuppam,Wheat,9,2669
+Maharashtra,Nellikuppam,Rice,20,2714
+Maharashtra,Nellikuppam,Maize,11,2467
+Maharashtra,Nellikuppam,Cotton,9,8091
+Maharashtra,Pune,Wheat,7,2585
+Maharashtra,Pune,Rice,20,2547
+Maharashtra,Pune,Maize,11,2261
+Maharashtra,Pune,Cotton,9,9195
+Rajasthan,Bishanpura,Wheat,15,2483
+Rajasthan,Bishanpura,Rice,18,2219
+Rajasthan,Bishanpura,Maize,10,3236
+Rajasthan,Bishanpura,Cotton,8,8034
+Rajasthan,Channarayapatna,Wheat,14,2625
+Rajasthan,Channarayapatna,Rice,19,2493
+Rajasthan,Channarayapatna,Maize,11,2256
+Rajasthan,Channarayapatna,Cotton,9,7529
+Rajasthan,Dhulagori,Wheat,14,2417
+Rajasthan,Dhulagori,Rice,18,2560
+Rajasthan,Dhulagori,Maize,10,2110
+Rajasthan,Dhulagori,Cotton,7,7924
+Rajasthan,Manjari,Wheat,15,2487
+Rajasthan,Manjari,Rice,21,2493
+Rajasthan,Manjari,Maize,10,3160
+Rajasthan,Manjari,Cotton,8,7594
+Rajasthan,Nellikuppam,Wheat,14,2721
+Rajasthan,Nellikuppam,Rice,21,2501
+Rajasthan,Nellikuppam,Maize,10,2840
+Rajasthan,Nellikuppam,Cotton,9,7843
+Rajasthan,Udaipur,Wheat,13,2767
+Rajasthan,Udaipur,Rice,17,2496
+Rajasthan,Udaipur,Maize,11,3226
+Rajasthan,Udaipur,Cotton,10,7630
+Tamil Nadu,Bishanpura,Wheat,2,2193
+Tamil Nadu,Bishanpura,Rice,25,2713
+Tamil Nadu,Bishanpura,Maize,23,2515
+Tamil Nadu,Bishanpura,Cotton,8,7791
+Tamil Nadu,Channarayapatna,Wheat,3,2127
+Tamil Nadu,Channarayapatna,Rice,28,2721
+Tamil Nadu,Channarayapatna,Maize,22,2669
+Tamil Nadu,Channarayapatna,Cotton,9,7924
+Tamil Nadu,Coimbatore,Wheat,2,2119
+Tamil Nadu,Coimbatore,Rice,22,2479
+Tamil Nadu,Coimbatore,Maize,20,2057
+Tamil Nadu,Coimbatore,Cotton,8,7616
+Tamil Nadu,Dhulagori,Wheat,3,2091
+Tamil Nadu,Dhulagori,Rice,23,2282
+Tamil Nadu,Dhulagori,Maize,22,2497
+Tamil Nadu,Dhulagori,Cotton,8,8125
+Tamil Nadu,Manjari,Wheat,2,2186
+Tamil Nadu,Manjari,Rice,22,2522
+Tamil Nadu,Manjari,Maize,22,2871
+Tamil Nadu,Manjari,Cotton,7,8181
+Tamil Nadu,Nellikuppam,Wheat,2,2006
+Tamil Nadu,Nellikuppam,Rice,29,2422
+Tamil Nadu,Nellikuppam,Maize,22,2020
+Tamil Nadu,Nellikuppam,Cotton,7,8110
+Telangana,Bishanpura,Wheat,9,2773
+Telangana,Bishanpura,Rice,26,2590
+Telangana,Bishanpura,Maize,24,3116
+Telangana,Bishanpura,Cotton,7,7584
+Telangana,Channarayapatna,Wheat,9,2505
+Telangana,Channarayapatna,Rice,27,2452
+Telangana,Channarayapatna,Maize,22,2391
+Telangana,Channarayapatna,Cotton,8,8301
+Telangana,Dhulagori,Wheat,8,2664
+Telangana,Dhulagori,Rice,27,2413
+Telangana,Dhulagori,Maize,22,2482
+Telangana,Dhulagori,Cotton,10,8571
+Telangana,Hyderabad,Wheat,8,2868
+Telangana,Hyderabad,Rice,26,2449
+Telangana,Hyderabad,Maize,24,2155
+Telangana,Hyderabad,Cotton,8,7745
+Telangana,Manjari,Wheat,8,2736
+Telangana,Manjari,Rice,22,2306
+Telangana,Manjari,Maize,22,2952
+Telangana,Manjari,Cotton,9,8353
+Telangana,Nellikuppam,Wheat,8,2518
+Telangana,Nellikuppam,Rice,28,2620
+Telangana,Nellikuppam,Maize,24,3220
+Telangana,Nellikuppam,Cotton,10,8901
+Uttar Pradesh,Bishanpura,Wheat,14,2668
+Uttar Pradesh,Bishanpura,Rice,28,2425
+Uttar Pradesh,Bishanpura,Maize,11,3169
+Uttar Pradesh,Bishanpura,Cotton,7,8464
+Uttar Pradesh,Channarayapatna,Wheat,15,2380
+Uttar Pradesh,Channarayapatna,Rice,27,2262
+Uttar Pradesh,Channarayapatna,Maize,11,2636
+Uttar Pradesh,Channarayapatna,Cotton,5,8338
+Uttar Pradesh,Dhulagori,Wheat,14,2712
+Uttar Pradesh,Dhulagori,Rice,22,2210
+Uttar Pradesh,Dhulagori,Maize,10,2506
+Uttar Pradesh,Dhulagori,Cotton,8,8280
+Uttar Pradesh,Kanpur,Wheat,16,2687
+Uttar Pradesh,Kanpur,Rice,28,2302
+Uttar Pradesh,Kanpur,Maize,12,2823
+Uttar Pradesh,Kanpur,Cotton,7,7551
+Uttar Pradesh,Lucknow,Wheat,16,2878
+Uttar Pradesh,Lucknow,Rice,25,2308
+Uttar Pradesh,Lucknow,Maize,11,2744
+Uttar Pradesh,Lucknow,Cotton,5,7655
+Uttar Pradesh,Manjari,Wheat,16,2860
+Uttar Pradesh,Manjari,Rice,22,2391
+Uttar Pradesh,Manjari,Maize,12,3206
+Uttar Pradesh,Manjari,Cotton,5,7805
