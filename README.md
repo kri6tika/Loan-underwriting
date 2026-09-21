@@ -1,6 +1,6 @@
-# Loan-underwriting
+**AI-Powered Loan Underwriting Assistant** — An end-to-end AI product designed to augment credit managers with automated document validation, customer segmentation, default-risk prediction, policy-based decisioning, and application summary. 
+The system combines ML-driven risk assessment with human-in-the-loop underwriting to generate **Approve, Reject, or Refer** outcomes while keeping the final credit decision with the credit manager.
 
-The Loan Underwriting System evaluates loan applications using predefined business rules and credit assessment criteria.
 
 Kindly click on the thumbnails below to watch demo videos.
 
