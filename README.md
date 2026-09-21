@@ -22,11 +22,11 @@ Demonstrates a successful loan application that satisfies all underwriting requi
 
 ### Scenario Highlights
 
-- Positive credit assessment
-- Eligible debt-to-income ratio
-- Sufficient income verification
+- Information validated through documents
+- Net Free Cash Flow to Annual Installment ratio >= 1.5:1
+- Customer Segmentation: Strong Financial Profile, Existing customer - Low Exposure or New customer- Low Exposure
+- Prediction of Default: Low
 - Automatic approval decision
-
 
 ## 2️⃣ Loan Rejected ❌
 
@@ -37,9 +37,10 @@ Illustrates the rejection workflow when an applicant fails to meet underwriting 
 
 ### Scenario Highlights
 
-- Poor credit profile
-- High debt burden
-- Risk threshold exceeded
+- Low income or High debt burden
+- Net Free Cash Flow to Annual Installment ratio < 1.1:1
+- Customer Segmentation: Existing customer - High Exposure or New customer- High Exposure
+- Prediction of Default: High (Risk threshold exceeded)
 - Automated rejection decision
   
 ## 3️⃣ Referred to Credit Manager 🔍
@@ -52,6 +53,7 @@ Shows cases requiring manual underwriting review by a credit analyst.
 ### Scenario Highlights
 
 - Borderline eligibility
+- Net Free Cash Flow to Annual Installment ratio >= 1.1:1
 - Additional document verification
 - Manual risk assessment
 
@@ -66,7 +68,8 @@ When inconsistencies are detected between applicant-provided information and ver
 
 - Identity verification discrepancies
 - Land or Income validation issues
-- Loan application cancelled;customer to re-login with correct details
+- Loan application cancelled
+- Customer to re-login with correct details
 
 
 
