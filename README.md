@@ -19,7 +19,7 @@ Kindly click on the thumbnails below to watch demo videos.
 Demonstrates a successful loan application that satisfies all underwriting requirements.
 
 <a href="https://www.youtube.com/watch?v=5YBf9jFUd-U">
-  <img src="docs/Loan%20Approved.jpg" width="400">
+  <img src="docs/Loan%20Approved.jpg" width="500">
 
 ### Scenario Highlights
 
