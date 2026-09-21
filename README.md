@@ -11,27 +11,13 @@ The Loan Underwriting System evaluates loan applications using predefined busine
 - 💰 Loan eligibility assessment
 - 👤 Credit-manager decision support
 
-[![Architecture](images/architecture-thumbnail.png)](docs/architecture.md)
+[![Loan Underwriting](docs/BusinessProcessFlow.png)]
 
-1️⃣ Information Mismatch
-
-When inconsistencies are detected between applicant-provided information and verification data, the application is flagged for review.
-
-demo-videos/information-mismatch-thumbnail.png](https://github.com/kri6tika/Loan-underwriting/blob/main/demo-videos/Information_Mismatch.mp4)
-[![Loan Underwriting](images/loan-thumbnail.png)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-Scenario Highlights
-
-Identity verification discrepancies
-Income validation issues
-Data inconsistency detection
-Automated review recommendation
-2️⃣ Loan Approved ✅
+1️⃣ Loan Approved ✅
 
 Demonstrates a successful loan application that satisfies all underwriting requirements.
 
-demo-videos/loan-approved-thumbnail.png](https://github.com/kri6tika/Loan-underwriting/blob/main/demo-videos/Loan%20Approved.mp4)
-[![Loan Underwriting](images/loan-thumbnail.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Loan Underwriting](docs/Loan Approved.jpg)](https://www.youtube.com/watch?v=mGK6wDy4oVQ)
 
 Scenario Highlights
 
@@ -39,12 +25,13 @@ Positive credit assessment
 Eligible debt-to-income ratio
 Sufficient income verification
 Automatic approval decision
-3️⃣ Loan Rejected ❌
+
+
+2️⃣ Loan Rejected ❌
 
 Illustrates the rejection workflow when an applicant fails to meet underwriting criteria.
 
-demo-videos/loan-rejected-thumbnail.png](https://github.com/kri6tika/Loan-underwriting/blob/main/demo-videos/Loan%20Rejected.mp4)
-[![Loan Underwriting](images/loan-thumbnail.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Loan Underwriting](docs/Loan Rejected.png)](https://www.youtube.com/watch?v=5Gsl9VzjjTM)
 
 Scenario Highlights
 
@@ -52,12 +39,10 @@ Poor credit profile
 High debt burden
 Risk threshold exceeded
 Automated rejection decision
-4️⃣ Referred to Credit Analyst 🔍
+3️⃣Referred to Credit Analyst 🔍
 
 Shows cases requiring manual underwriting review by a credit analyst.
-
-demo-videos/referred-credit-thumbnail.png](https://github.com/kri6tika/Loan-underwriting/blob/main/demo-videos/Refered_to_Credit.mp4)
-[![Loan Underwriting](images/loan-thumbnail.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Loan Underwriting](docs/Refered to Credit.png)](https://www.youtube.com/watch?v=6WSG97IkMbk)
 
 Scenario Highlights
 
@@ -65,6 +50,20 @@ Borderline eligibility
 Additional document verification
 Manual risk assessment
 Analyst-assisted decision process
+
+4️⃣Information Mismatch
+
+When inconsistencies are detected between applicant-provided information and verification data, the application is flagged for review.
+
+[![Loan Underwriting](docs/Information_Mismatch.png)](https://www.youtube.com/watch?v=nZG7hzejcBM)
+
+Scenario Highlights
+
+Identity verification discrepancies
+Income validation issues
+Data inconsistency detection
+Automated review recommendation
+
 
 
 
