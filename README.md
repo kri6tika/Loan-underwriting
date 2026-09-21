@@ -16,7 +16,8 @@ The Loan Underwriting System evaluates loan applications using predefined busine
 1️⃣ Loan Approved ✅
 
 Demonstrates a successful loan application that satisfies all underwriting requirements.
-[![Loan Underwriting](docs/Loan%20Approved.jpg)](https://www.youtube.com/watch?v=5YBf9jFUd-U)
+<a href="https://www.youtube.com/watch?v=5YBf9jFUd-U">
+  <img src="docs/Loan%20Approved.jpg" width="400">
 
 Scenario Highlights
 
