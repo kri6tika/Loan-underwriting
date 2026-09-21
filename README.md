@@ -28,44 +28,45 @@ Demonstrates a successful loan application that satisfies all underwriting requi
 - Automatic approval decision
 
 
-2️⃣ Loan Rejected ❌
+## 2️⃣ Loan Rejected ❌
 
 Illustrates the rejection workflow when an applicant fails to meet underwriting criteria.
 
 <a href="https://www.youtube.com/watch?v=5Gsl9VzjjTM">
   <img src="docs/Loan%20Rejected.png" width="400">
 
+### Scenario Highlights
 
-Scenario Highlights
-
-Poor credit profile
-High debt burden
-Risk threshold exceeded
-Automated rejection decision
-3️⃣Referred to Credit Analyst 🔍
+- Poor credit profile
+- High debt burden
+- Risk threshold exceeded
+- Automated rejection decision
+  
+## 3️⃣ Referred to Credit Manager 🔍
 
 Shows cases requiring manual underwriting review by a credit analyst.
-[![Loan Underwriting](docs/Refered to Credit.png)](https://www.youtube.com/watch?v=6WSG97IkMbk)
 
-Scenario Highlights
+<a href="https://www.youtube.com/watch?v=nZG7hzejcBM">
+  <img src="docs/Refered%20to%20Credit.png" width="400">
 
-Borderline eligibility
-Additional document verification
-Manual risk assessment
-Analyst-assisted decision process
+### Scenario Highlights
 
-4️⃣Information Mismatch
+- Borderline eligibility
+- Additional document verification
+- Manual risk assessment
+
+## 4️⃣Information Mismatch ❌ 
 
 When inconsistencies are detected between applicant-provided information and verification data, the application is flagged for review.
 
-[![Loan Underwriting](docs/Information_Mismatch.png)](https://www.youtube.com/watch?v=nZG7hzejcBM)
+<a href="https://www.youtube.com/watch?v=nZG7hzejcBM">
+  <img src="docs/Information_Mismatch.png" width="400">
 
-Scenario Highlights
+### Scenario Highlights
 
-Identity verification discrepancies
-Income validation issues
-Data inconsistency detection
-Automated review recommendation
+- Identity verification discrepancies
+- Land or Income validation issues
+- Loan application cancelled;customer to re-login with correct details
 
 
 
