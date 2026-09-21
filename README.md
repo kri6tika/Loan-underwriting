@@ -34,7 +34,7 @@ Demonstrates a successful loan application that satisfies all underwriting requi
 Illustrates the rejection workflow when an applicant fails to meet underwriting criteria.
 
 <a href="https://www.youtube.com/watch?v=5Gsl9VzjjTM">
-  <img src="docs/Loan%20Rejected.png" width="400">
+  <img src="docs/Loan%20Rejected.png" width="500">
 
 ### Scenario Highlights
 
@@ -49,7 +49,7 @@ Illustrates the rejection workflow when an applicant fails to meet underwriting 
 Shows cases requiring manual underwriting review by a credit analyst.
 
 <a href="https://www.youtube.com/watch?v=nZG7hzejcBM">
-  <img src="docs/Refered%20to%20Credit.png" width="400">
+  <img src="docs/Refered%20to%20Credit.png" width="500">
 
 ### Scenario Highlights
 
@@ -63,7 +63,7 @@ Shows cases requiring manual underwriting review by a credit analyst.
 When inconsistencies are detected between applicant-provided information and verification data, the application is flagged for review.
 
 <a href="https://www.youtube.com/watch?v=nZG7hzejcBM">
-  <img src="docs/Information_Mismatch.png" width="400">
+  <img src="docs/Information_Mismatch.png" width="500">
 
 ### Scenario Highlights
 
