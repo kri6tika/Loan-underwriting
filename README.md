@@ -32,7 +32,6 @@ Automatic approval decision
 
 Illustrates the rejection workflow when an applicant fails to meet underwriting criteria.
 
-
 <a href="https://www.youtube.com/watch?v=5Gsl9VzjjTM">
   <img src="docs/Loan%20Rejected.png" width="400">
 
