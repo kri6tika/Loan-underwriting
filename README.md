@@ -26,7 +26,7 @@ Demonstrates a successful loan application that satisfies all underwriting requi
 - Net Free Cash Flow to Annual Installment ratio >= 1.5:1
 - Customer Segmentation: Strong Financial Profile, Existing customer - Low Exposure or New customer- Low Exposure
 - Prediction of Default: Low
-- Automatic approval decision
+- Automated Decision: Approved
 
 ## 2️⃣ Loan Rejected ❌
 
@@ -41,7 +41,7 @@ Illustrates the rejection workflow when an applicant fails to meet underwriting 
 - Net Free Cash Flow to Annual Installment ratio < 1.1:1
 - Customer Segmentation: Existing customer - High Exposure or New customer- High Exposure
 - Prediction of Default: High (Risk threshold exceeded)
-- Automated rejection decision
+- Automated Decision: Rejected
   
 ## 3️⃣ Referred to Credit Manager 🔍
 
