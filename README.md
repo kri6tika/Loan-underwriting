@@ -13,19 +13,19 @@ The Loan Underwriting System evaluates loan applications using predefined busine
 
 ![Loan Underwriting](docs/BusinessProcessFlow.png)
 
-1️⃣ Loan Approved ✅
+## 1️⃣ Loan Approved ✅
 
 Demonstrates a successful loan application that satisfies all underwriting requirements.
 
 <a href="https://www.youtube.com/watch?v=5YBf9jFUd-U">
   <img src="docs/Loan%20Approved.jpg" width="400">
 
-Scenario Highlights
+### Scenario Highlights
 
-Positive credit assessment
-Eligible debt-to-income ratio
-Sufficient income verification
-Automatic approval decision
+- Positive credit assessment
+- Eligible debt-to-income ratio
+- Sufficient income verification
+- Automatic approval decision
 
 
 2️⃣ Loan Rejected ❌
