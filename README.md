@@ -5,9 +5,9 @@ The Loan Underwriting System evaluates loan applications using predefined busine
 
 ### Key Features
 
-- 🤖 AI-assisted underwriting
+- 🤖 AI-assisted Underwriting
 - 📄 Automated document extraction
-- 🌾 Agricultural land & asset verification
+- 🌾 Agricultural land, Income & Asset verification
 - 💰 Loan eligibility assessment
 - 👤 Credit-manager decision support
 
