@@ -1,7 +1,7 @@
 # Loan-underwriting
 
 The Loan Underwriting System evaluates loan applications using predefined business rules and credit assessment criteria. 
-The following demonstrations showcase the major decision outcomes. Click on the thumbnails below to watch demo videos.
+Kindly click on the thumbnails below to watch demo videos.
 
 ### Key Features
 
