@@ -7,3 +7,6 @@ plotly
 streamlit
 pillow
 pytesseract
+opencv-python
+pdfplumber
+PyMuPDF
