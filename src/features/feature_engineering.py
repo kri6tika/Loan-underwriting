@@ -16,12 +16,10 @@ def calculate_features(
    print("State:", State)
    print("District:", District)
    print("Crop:", Crop)
-   df = pd.read_csv("/workspaces/Loan-underwriting/data/raw/Customer_Data.csv")
+   df = pd.read_csv("data/raw/Customer_Data.csv")
 
 #Joining Customer data with Crop Income table 
-   crop_income_df = pd.read_csv(
-    "/workspaces/Loan-underwriting/data/raw/Crop_Income.csv"
-)
+   crop_income_df = pd.read_csv("data/raw/Crop_Income.csv")
 
    df = df.merge(
     crop_income_df,
@@ -43,9 +41,7 @@ def calculate_features(
  
 
 #Joining Customer data with Model cost table 
-   assetcost_df = pd.read_csv(
-    "/workspaces/Loan-underwriting/data/raw/Model_cost.csv"
-)
+   assetcost_df = pd.read_csv("data/raw/Model_cost.csv")
 
    df = df.merge(
     assetcost_df,
