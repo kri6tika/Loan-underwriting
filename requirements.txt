@@ -13,3 +13,4 @@ PIL
 pypdf
 pdf2image
 rapidfuzz
+joblib
