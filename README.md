@@ -3,7 +3,8 @@
 The system combines ML-driven risk assessment with human-in-the-loop underwriting to generate **Approve, Reject, or Refer** outcomes while keeping the final credit decision with the credit manager.
 
 Check out the loan application journey on https://loan-underwriting-4brbcvrxtlqjaspjsku6zt.streamlit.app/
-Or 
+OR 
+
 Click on the thumbnails below to watch demo videos.
 
 ### Key Features
