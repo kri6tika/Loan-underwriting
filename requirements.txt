@@ -9,7 +9,6 @@ pillow
 pytesseract
 opencv-python
 pdfplumber
-PIL
 pypdf
 pdf2image
 rapidfuzz
