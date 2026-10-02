@@ -13,7 +13,15 @@ Click on the thumbnails below to watch demo videos.
 - 📄 Automated document extraction
 - 🌾 Agricultural land, Income & Asset verification
 - 💰 Loan eligibility assessment
-- 👤 Credit-manager decision support
+
+
+### Limitations & Future Enhancements
+
+The following integrations and capabilities would be required for production deployment:
+
+- Credit Bureau Integration: The current prototype does not connect to a live credit bureau such as CIBIL. Credit bureau data should be retrieved or validated in real time.
+- OTP Verification: The OTP flow is implemented for demonstration purposes using a dummy OTP rather than sending an OTP to an actual customer mobile number.
+- Model Validation: The machine-learning models are trained and evaluated on the available dataset and would require testing on larger datasets and continuous monitoring before production use.
 
 ![Loan Underwriting](docs/BusinessProcessFlow.png)
 
