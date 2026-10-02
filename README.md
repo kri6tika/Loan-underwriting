@@ -15,6 +15,9 @@ Click on the thumbnails below to watch demo videos.
 - 💰 Loan eligibility assessment
 
 
+
+![Loan Underwriting](docs/BusinessProcessFlow.png)
+
 ### Limitations & Future Enhancements
 
 The following integrations and capabilities would be required for production deployment:
@@ -23,7 +26,6 @@ The following integrations and capabilities would be required for production dep
 - OTP Verification: The OTP flow is implemented for demonstration purposes using a dummy OTP rather than sending an OTP to an actual customer mobile number.
 - Model Validation: The machine-learning models are trained and evaluated on the available dataset and would require testing on larger datasets and continuous monitoring before production use.
 
-![Loan Underwriting](docs/BusinessProcessFlow.png)
 
 ## 1️⃣ Loan Approved ✅
 
